@@ -115,7 +115,7 @@ It's built to feel like your own personal Instagram reel library — searchable,
   <a href="https://apps.apple.com/app/reelmark">
     <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="200" />
   </a>
-  <a href="#">
+  <a href="https://github.com/Quastro0/reelmark/releases/tag/v1.0.0">
     <img src="https://github.com/user-attachments/assets/9dec0bda-77ed-4ee9-a22d-14c8d7798b3a" alt="Download from GitHub" width="200" />
   </a>
 </p>
