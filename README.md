@@ -55,7 +55,7 @@ ReelMark is a powerful Android application that helps you save, organize, and ma
 ## 🎥 Tutorial Video
 
 <p align="center">
-  <video src="videos/tutorial.mp4" controls width="100%"></video>
+  <video src="videos/tutorial.gif" controls width="100%"></video>
 </p>
 
 ---
