@@ -32,23 +32,17 @@ ReelMark is a powerful Android application that helps you save, organize, and ma
 
 ---
 
-## 📸 Screenshots
+## 📸 Key Features in Action
 
-| ![](screenshots/search_saved_reel.png) | ![](screenshots/grid_list_dark_light_mode.png) |
-|:---:|:---:|
-| <b>Find saved reels easily</b> | <b>Grid/List & Light/Dark Mode</b> |
+<p align="center">
+  <img src="screenshots/all_favorites_main_ui.png" alt="Main UI" width="45%" />
+  <img src="screenshots/search_saved_reel.png" alt="Search Feature" width="45%" />
+</p>
 
-| ![](screenshots/sort_by_category.png) | ![](screenshots/how_to_bookmark.png) |
-|:---:|:---:|
-| <b>Sort by mood, topic, or anything</b> | <b>How to bookmark a reel</b> |
-
-| ![](screenshots/edit_reel_personalize.png) | ![](screenshots/settings_premium.png) |
-|:---:|:---:|
-| <b>Personalize every reel</b> | <b>Change settings & unlock premium</b> |
-
-| ![](screenshots/recently_viewed.png) | ![](screenshots/all_favorites_main_ui.png) |
-|:---:|:---:|
-| <b>Recently watched reels</b> | <b>All your favorites, one tap away</b> |
+<p align="center">
+  <img src="screenshots/sort_by_category.png" alt="Category Management" width="45%" />
+  <img src="screenshots/edit_reel_personalize.png" alt="Personalization" width="45%" />
+</p>
 
 ---
 
