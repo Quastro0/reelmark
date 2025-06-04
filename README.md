@@ -32,24 +32,26 @@ ReelMark is a powerful Android application that helps you save, organize, and ma
 
 ---
 
-## 📸 Key Features in Action
+## 📸 App Preview
 
 <p align="center">
-  <img src="screenshots/all_favorites_main_ui.png" alt="Main UI" width="45%" />
-  <img src="screenshots/search_saved_reel.png" alt="Search Feature" width="45%" />
+  <img src="screenshots/all_favorites_main_ui.png" alt="Main UI" width="30%" />
+  <img src="screenshots/search_saved_reel.png" alt="Search Feature" width="30%" />
+  <img src="screenshots/sort_by_category.png" alt="Category Management" width="30%" />
 </p>
 
 <p align="center">
-  <img src="screenshots/sort_by_category.png" alt="Category Management" width="45%" />
-  <img src="screenshots/edit_reel_personalize.png" alt="Personalization" width="45%" />
+  <img src="screenshots/edit_reel_personalize.png" alt="Personalization" width="30%" />
+  <img src="screenshots/settings_premium.png" alt="Settings" width="30%" />
+  <img src="screenshots/recently_viewed.png" alt="Recently Viewed" width="30%" />
 </p>
 
 ---
 
-## 🎥 Tutorial Video
+## 🎥 Quick Demo
 
 <p align="center">
-  <video src="videos/tutorial.gif" controls width="100%"></video>
+  <img src="videos/tutorial.gif" alt="App Demo" width="60%" />
 </p>
 
 ---
