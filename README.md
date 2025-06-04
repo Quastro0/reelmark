@@ -127,8 +127,6 @@ It's built to feel like your own personal Instagram reel library — searchable,
 - **Framework**: Flutter (Cross-platform)
 - **State Management**: Provider
 - **Local Storage**: Hive
-- **Authentication**: Firebase Auth
-- **Analytics**: Firebase Analytics
 - **Monetization**: Google AdMob
 - **In-App Purchases**: Google Play Billing / App Store Connect
 
