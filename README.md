@@ -4,8 +4,52 @@
 
 # ReelMark - Instagram Reel Bookmarking App
 
+<p align="center">
+  <a href="https://github.com/Quastro0/reelmark/stargazers">
+    <img src="https://img.shields.io/github/stars/Quastro0/reelmark?style=social" alt="GitHub stars" />
+  </a>
+  <a href="https://github.com/Quastro0/reelmark/network/members">
+    <img src="https://img.shields.io/github/forks/Quastro0/reelmark?style=social" alt="GitHub forks" />
+  </a>
+  <a href="https://github.com/Quastro0/reelmark/watchers">
+    <img src="https://img.shields.io/github/watchers/Quastro0/reelmark?style=social" alt="GitHub watchers" />
+  </a>
+  <a href="https://github.com/Quastro0?tab=followers">
+    <img src="https://img.shields.io/github/followers/Quastro0?style=social" alt="GitHub followers" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.example.reelmark">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  </a>
+  <a href="https://apps.apple.com/app/reelmark">
+    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
+  </a>
+  <a href="https://firebase.google.com">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  </a>
+</p>
+
 ## 📱 App Description
-ReelMark is a powerful Android application that helps you save, organize, and manage your favorite Instagram reels. With an intuitive interface and powerful features, ReelMark makes it easy to keep track of your favorite content.
+ReelMark is a powerful app for android and ios (cross-platform) application that helps you save, organize, and manage your favorite Instagram reels. Available for both Android and iOS, ReelMark provides an intuitive interface and powerful features to make it easy to keep track of your favorite content.
+
+---
+
+## 💡 Inspiration
+
+Scrolling through Instagram, I'd often come across reels that were helpful — like a video editing tip, a tutorial, or creative inspiration. I'd save them using Instagram's native "Save" feature, only to completely forget about them later. When I did try to find them again, I had to scroll endlessly through hundreds of saved reels — many with misleading thumbnails — making it nearly impossible to find the one I wanted.
+
+That's when I realized: Instagram doesn't let you organize or label what you save.
+
+So I decided to fix that.
+
+ReelMark was born out of this simple frustration — a tool that lets you:
+- Save reels with titles and tags
+- Quickly search and retrieve them later
+- Avoid endlessly scrolling and rewatching every saved reel
+
+It's built to feel like your own personal Instagram reel library — searchable, organized, and fast.
 
 ---
 
@@ -29,70 +73,75 @@ ReelMark is a powerful Android application that helps you save, organize, and ma
 - **User-Friendly Interface**: Clean and intuitive design
 - **Offline Access**: View saved reels without internet connection
 - **Share Functionality**: Share reels with friends and family
+- **Cross-Platform**: Available on both Android and iOS
 
 ---
 
 ## 📸 App Preview
 
-<div style="overflow-x: auto; white-space: nowrap;">
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="screenshots/all_favorites_main_ui.png" alt="Main UI" width="200" />
-    <p align="center"><b>Main UI</b></p>
-  </div>
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="screenshots/search_saved_reel.png" alt="Search Feature" width="200" />
-    <p align="center"><b>Search Feature</b></p>
-  </div>
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="screenshots/sort_by_category.png" alt="Category Management" width="200" />
-    <p align="center"><b>Category Management</b></p>
-  </div>
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="screenshots/edit_reel_personalize.png" alt="Personalization" width="200" />
-    <p align="center"><b>Personalization</b></p>
-  </div>
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="screenshots/settings_premium.png" alt="Settings" width="200" />
-    <p align="center"><b>Settings</b></p>
-  </div>
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="screenshots/recently_viewed.png" alt="Recently Viewed" width="200" />
-    <p align="center"><b>Recently Viewed</b></p>
-  </div>
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="screenshots/grid_list_dark_light_mode.png" alt="Grid/List View" width="200" />
-    <p align="center"><b>Grid/List View</b></p>
-  </div>
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="screenshots/how_to_bookmark.png" alt="How to Bookmark" width="200" />
-    <p align="center"><b>How to Bookmark</b></p>
-  </div>
-</div>
+<p align="center">
+  <img src="screenshots/all_favorites_main_ui.png" alt="Main UI" width="180" />
+  <img src="screenshots/search_saved_reel.png" alt="Search Feature" width="180" />
+  <img src="screenshots/sort_by_category.png" alt="Category Management" width="180" />
+  <img src="screenshots/edit_reel_personalize.png" alt="Personalization" width="180" />
+</p>
+
+<p align="center">
+  <img src="screenshots/settings_premium.png" alt="Settings" width="180" />
+  <img src="screenshots/recently_viewed.png" alt="Recently Viewed" width="180" />
+  <img src="screenshots/grid_list_dark_light_mode.png" alt="Grid/List View" width="180" />
+  <img src="screenshots/how_to_bookmark.png" alt="How to Bookmark" width="180" />
+</p>
 
 ---
 
 ## 🎥 Quick Demo
 
-
-![tutorial](https://github.com/user-attachments/assets/2d63d583-72b7-4bb4-9ca3-22a70357a357)
+<p align="center">
+  <img src="tutorial.gif" alt="App Demo" width="50%" />
+  <br>
+  <small>If the GIF doesn't load, <a href="tutorial.gif">click here to view the demo</a></small>
+</p>
 
 ---
 
 ## 📥 Download
 
-[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.example.reelmark)
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.example.reelmark">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200" />
+  </a>
+  <a href="https://apps.apple.com/app/reelmark">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="200" />
+  </a>
+  <a href="#">
+    <img src="https://github.com/user-attachments/assets/9dec0bda-77ed-4ee9-a22d-14c8d7798b3a" alt="Download from GitHub" width="200" />
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Technical Stack
 
-- **Framework**: Flutter
+- **Framework**: Flutter (Cross-platform)
 - **State Management**: Provider
 - **Local Storage**: Hive
 - **Authentication**: Firebase Auth
 - **Analytics**: Firebase Analytics
 - **Monetization**: Google AdMob
-- **In-App Purchases**: Google Play Billing
+- **In-App Purchases**: Google Play Billing / App Store Connect
+
+---
+
+## 🤖 Development Journey
+
+This project was developed with the assistance of modern AI tools, which helped in:
+- Rapid prototyping and idea validation
+- Code optimization and best practices
+- UI/UX design refinement
+- Feature planning and implementation
+
+The use of AI in development allowed for faster iteration cycles and helped maintain high code quality standards while bringing the app to life.
 
 ---
 
@@ -108,8 +157,8 @@ ReelMark is a powerful Android application that helps you save, organize, and ma
 ## 📞 Contact
 
 - GitHub: [@Quastro0](https://github.com/Quastro0)
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
+- LinkedIn: Updating Soon..
+- Email: quastro.developer@gmail.com
 
 ---
 
