@@ -34,23 +34,47 @@ ReelMark is a powerful Android application that helps you save, organize, and ma
 
 ## 📸 App Preview
 
-<p align="center">
-  <img src="screenshots/all_favorites_main_ui.png" alt="Main UI" width="30%" />
-  <img src="screenshots/search_saved_reel.png" alt="Search Feature" width="30%" />
-  <img src="screenshots/sort_by_category.png" alt="Category Management" width="30%" />
-</p>
-
-<p align="center">
-  <img src="screenshots/edit_reel_personalize.png" alt="Personalization" width="30%" />
-  <img src="screenshots/settings_premium.png" alt="Settings" width="30%" />
-  <img src="screenshots/recently_viewed.png" alt="Recently Viewed" width="30%" />
-</p>
+<div style="overflow-x: auto; white-space: nowrap;">
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="screenshots/all_favorites_main_ui.png" alt="Main UI" width="200" />
+    <p align="center"><b>Main UI</b></p>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="screenshots/search_saved_reel.png" alt="Search Feature" width="200" />
+    <p align="center"><b>Search Feature</b></p>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="screenshots/sort_by_category.png" alt="Category Management" width="200" />
+    <p align="center"><b>Category Management</b></p>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="screenshots/edit_reel_personalize.png" alt="Personalization" width="200" />
+    <p align="center"><b>Personalization</b></p>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="screenshots/settings_premium.png" alt="Settings" width="200" />
+    <p align="center"><b>Settings</b></p>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="screenshots/recently_viewed.png" alt="Recently Viewed" width="200" />
+    <p align="center"><b>Recently Viewed</b></p>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="screenshots/grid_list_dark_light_mode.png" alt="Grid/List View" width="200" />
+    <p align="center"><b>Grid/List View</b></p>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="screenshots/how_to_bookmark.png" alt="How to Bookmark" width="200" />
+    <p align="center"><b>How to Bookmark</b></p>
+  </div>
+</div>
 
 ---
 
 ## 🎥 Quick Demo
 
-![App Demo](videos/tutorial.gif)
+
+![tutorial](https://github.com/user-attachments/assets/2d63d583-72b7-4bb4-9ca3-22a70357a357)
 
 ---
 
