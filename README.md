@@ -22,8 +22,6 @@ ReelMark is a powerful Android application that helps you save, organize, and ma
 - **Framework**: Flutter
 - **State Management**: Provider
 - **Local Storage**: Hive
-- **Authentication**: Firebase Auth
-- **Analytics**: Firebase Analytics
 - **Monetization**: Google AdMob
 - **In-App Purchases**: Google Play Billing
 
